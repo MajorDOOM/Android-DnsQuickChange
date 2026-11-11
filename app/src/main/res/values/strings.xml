@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DNS rapide</string>
+    <string name="tile_label">DNS</string>
+</resources>
